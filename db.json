@@ -1,0 +1,13 @@
+{
+  "users" : [
+    { "id" : 1, "name": "Sahil" },
+    { "id" : 2, "name": "Mohit" }
+  ],
+  "profiles" : [
+    { "name": "DEV" },
+    { "name": "QA" },
+    { "name": "PS" }
+  ]
+
+
+}
